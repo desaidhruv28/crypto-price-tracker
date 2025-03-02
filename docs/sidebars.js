@@ -15,12 +15,19 @@ module.exports = {
 		{
 			type: "category",
 			label: "Getting Started",
-			items: ["getting-started/installation"],
+			items: [
+				"getting-started/installation",
+				"getting-started/project-setup",
+			],
 		},
 		{
 			type: "category",
 			label: "Architecture",
-			items: ["architecture/tech-stack", "architecture/state-management"],
+			items: [
+				"architecture/tech-stack",
+				"architecture/state-management",
+				"architecture/challenges",
+			],
 		},
 		{
 			type: "category",
